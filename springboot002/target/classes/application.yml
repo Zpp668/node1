@@ -1,0 +1,20 @@
+#server:
+#  port: 8090
+#person:
+#  lastName: zhangsan
+#  age: 18
+#  boss: false
+#  birth: 2020/3/18
+##  maps: {k1: 11,k2: 22}
+#  lists:
+#    - lisi
+#    - zhaoliu
+#  dog:
+#    name: 小狗
+#    age: 12
+#  maps:
+#    k1: ccc
+#    v2: bbb
+#server:
+#  port: 8081
+#---
